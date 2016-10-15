@@ -17,8 +17,8 @@ et la version WiFi du serveur Domotique : http://rasp-pi.fr.nf/domotique-en-433m
 Voir l'article sur le projet Jarvis http://rasp-pi.fr.nf/reconnaissance-vocale-et-domotique-en-433mhz/
 
 Ce plugin doit vous servir d'exemple à vous de modifier les commandes suivant les objets connectés avec votre module en 433Mhz
-De mon coté j'ai 6 prises, 3 interrupeteurs et un volet roulant électrique (il faut que j'installe les autres ..) Et à terme je voudrais avoir touts les interrupteurs de la maison (sauf toilette et salle de bain :) ) 
-Je peux commander le tout par mon ordi, mon téléphone ou ma tablette à l'intérieur ou a distance (mes enfants ont installé l'appli sur leur téléphone) et maintenant avec Jarvis j'ai la commande vocale de tous les objets connectés assis sur mon canapé même avec la télé allumée. :) :)
+De mon coté j'ai 6 prises, 3 interrupeteurs et un volet roulant électrique (il faut que j'installe les autres ..) Et à terme je voudrais avoir touts les interrupteurs de la maison (sauf toilette et salle de bain :smile: ) 
+Je peux commander le tout par mon ordi, mon téléphone ou ma tablette à l'intérieur ou a distance (mes enfants ont installé l'appli sur leur téléphone) et maintenant avec Jarvis j'ai la commande vocale de tous les objets connectés assis sur mon canapé même avec la télé allumée. :smile: :smile:
 
 ## Usage
 ```
@@ -30,4 +30,3 @@ Jarvis : La lampe du salon est allumée
 ## Author
 [MichelGard](http://raspi.fr.nf)
 
-[Contact](raspberrypi.gard@gmail.com)
