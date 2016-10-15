@@ -29,4 +29,4 @@ Jarvis : La lampe du salon est allumée
 
 ## Author
 [MichelGard](http://raspi.fr.nf)
-raspberrypi.gard@gmail.com
+[Contact](raspberrypi.gard@gmail.com)
