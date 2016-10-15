@@ -32,5 +32,4 @@ Jarvis : La lampe du salon est allumée
 ## Author
 [MichelGard](http://raspi.fr.nf)
 
-@github/support
 
