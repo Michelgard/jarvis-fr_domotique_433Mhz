@@ -12,11 +12,9 @@ For multi-language plugin:
 ## Description
 Commande domotique (fait) maison en 433MHZ par la voix.
 
-Voir le projet ici : http://rasp-pi.fr.nf/domotique-en-433mhz/
-et la version WiFi du serveur Domotique ici : http://rasp-pi.fr.nf/domotique-en-433mhz-avec-le-wifi/
-et : http://rasp-pi.fr.nf/reconnaissance-vocale-et-domotique-en-433mhz/ qui parle du projet Jarvis
-
-Avec tous les composants et les codes Arduino et PHP pour les commandes sur écran tactile.
+Le projet complet : http://rasp-pi.fr.nf/domotique-en-433mhz/
+et la version WiFi du serveur Domotique : http://rasp-pi.fr.nf/domotique-en-433mhz-avec-le-wifi/
+Voir l'article sur le projet Jarvis http://rasp-pi.fr.nf/reconnaissance-vocale-et-domotique-en-433mhz/
 
 Ce plugin doit vous servir d'exemple à vous de modifier les commandes suivant les objets connectés avec votre module en 433Mhz
 De mon coté j'ai 6 prises, 3 interrupeteurs et un volet roulant électrique (il faut que j'installe les autres ..) Et à terme je voudrais avoir touts les interrupteurs de la maison (sauf toilette et salle de bain :) ) 
@@ -31,3 +29,4 @@ Jarvis : La lampe du salon est allumée
 
 ## Author
 [MichelGard](http://raspi.fr.nf)
+raspberrypi.gard@gmail.com
