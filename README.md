@@ -13,7 +13,9 @@ For multi-language plugin:
 Commande domotique (fait) maison en 433MHZ par la voix.
 
 Le projet complet : http://rasp-pi.fr.nf/domotique-en-433mhz/
-et la version WiFi du serveur Domotique : http://rasp-pi.fr.nf/domotique-en-433mhz-avec-le-wifi/
+
+La version WiFi du serveur Domotique : http://rasp-pi.fr.nf/domotique-en-433mhz-avec-le-wifi/
+
 Voir l'article sur le projet Jarvis http://rasp-pi.fr.nf/reconnaissance-vocale-et-domotique-en-433mhz/
 
 Ce plugin doit vous servir d'exemple à vous de modifier les commandes suivant les objets connectés avec votre module en 433Mhz
