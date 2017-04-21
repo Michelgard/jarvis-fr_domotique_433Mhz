@@ -12,11 +12,11 @@ For multi-language plugin:
 ## Description
 Commande domotique (fait) maison en 433MHZ par la voix.
 
-Le projet complet : http://rasp-pi.fr.nf/domotique-en-433mhz/
+Le projet complet : https://www.blog-de-michel.fr/domotique-en-433mhz/
 
-La version WiFi du serveur Domotique : http://rasp-pi.fr.nf/domotique-en-433mhz-avec-le-wifi/
+La version WiFi du serveur Domotique : https://www.blog-de-michel.fr/domotique-en-433mhz-avec-le-wifi/
 
-Voir l'article sur le projet Jarvis http://rasp-pi.fr.nf/reconnaissance-vocale-et-domotique-en-433mhz/
+Voir l'article sur le projet Jarvis https://www.blog-de-michel.fr/reconnaissance-vocale-et-domotique-en-433mhz/
 
 Ce plugin doit vous servir d'exemple à vous de modifier les commandes suivant les objets connectés avec votre module en 433Mhz
 De mon coté j'ai 6 prises, 3 interrupeteurs et un volet roulant électrique (il faut que j'installe les autres ..) Et à terme je voudrais avoir touts les interrupteurs de la maison (sauf toilette et salle de bain :smile: ) 
